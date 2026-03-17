@@ -1,6 +1,12 @@
+---
+layout: default
+title: 1. 개요 및 특징
+nav_order: 2
+---
+
 # 1. Google BigQuery 개요 및 특징
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -90,4 +96,4 @@ DBA 필요              →    NoOps, 자동 관리
 
 ---
 
-[다음: 아키텍처 →](02-architecture.md)
+[다음: 아키텍처 →](02-architecture)

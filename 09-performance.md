@@ -1,6 +1,12 @@
+---
+layout: default
+title: 9. 성능 최적화
+nav_order: 10
+---
+
 # 9. 성능 최적화
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -266,4 +272,4 @@ LIMIT 10;
 
 ---
 
-[← 이전: 보안](08-security.md) | [다음: 최신 기능 →](10-latest-features.md)
+[← 이전: 보안](08-security) | [다음: 최신 기능 →](10-latest-features)

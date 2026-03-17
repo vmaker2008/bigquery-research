@@ -1,6 +1,12 @@
+---
+layout: default
+title: 7. BigQuery ML & AI
+nav_order: 8
+---
+
 # 7. BigQuery ML & AI 기능
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -265,4 +271,4 @@ SELECT * FROM ML.PREDICT(
 
 ---
 
-[← 이전: 비교](06-comparison.md) | [다음: 보안 →](08-security.md)
+[← 이전: 비교](06-comparison) | [다음: 보안 →](08-security)

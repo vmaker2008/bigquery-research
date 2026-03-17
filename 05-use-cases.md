@@ -1,6 +1,12 @@
+---
+layout: default
+title: 5. 사용 사례 & 모범 사례
+nav_order: 6
+---
+
 # 5. 사용 사례 & 모범 사례
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -216,4 +222,4 @@ SELECT * FROM ranked_months WHERE rank <= 3;
 
 ---
 
-[← 이전: 요금 체계](04-pricing.md) | [다음: 비교 →](06-comparison.md)
+[← 이전: 요금 체계](04-pricing) | [다음: 비교 →](06-comparison)

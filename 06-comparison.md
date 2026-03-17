@@ -1,6 +1,12 @@
+---
+layout: default
+title: 6. 타 서비스 비교
+nav_order: 7
+---
+
 # 6. BigQuery vs Snowflake vs Redshift
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -127,4 +133,4 @@ Redshift    ████████░░  높음 (클러스터 관리, 분산 
 
 ---
 
-[← 이전: 사용 사례](05-use-cases.md) | [다음: BigQuery ML & AI →](07-ml-ai.md)
+[← 이전: 사용 사례](05-use-cases) | [다음: BigQuery ML & AI →](07-ml-ai)

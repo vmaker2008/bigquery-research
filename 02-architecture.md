@@ -1,6 +1,12 @@
+---
+layout: default
+title: 2. 아키텍처
+nav_order: 3
+---
+
 # 2. BigQuery 아키텍처
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -129,4 +135,4 @@ Kubernetes의 선구자인 Google의 클러스터 관리 시스템입니다.
 
 ---
 
-[← 이전: 개요](01-overview.md) | [다음: 주요 기능 →](03-features.md)
+[← 이전: 개요](01-overview) | [다음: 주요 기능 →](03-features)

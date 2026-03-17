@@ -1,6 +1,12 @@
+---
+layout: default
+title: 8. 보안 & 접근 제어
+nav_order: 9
+---
+
 # 8. 보안 & 접근 제어
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -233,4 +239,4 @@ BigQuery 보안 체크리스트
 
 ---
 
-[← 이전: BigQuery ML & AI](07-ml-ai.md) | [다음: 성능 최적화 →](09-performance.md)
+[← 이전: BigQuery ML & AI](07-ml-ai) | [다음: 성능 최적화 →](09-performance)

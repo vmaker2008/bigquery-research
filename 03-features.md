@@ -1,6 +1,12 @@
+---
+layout: default
+title: 3. 주요 기능
+nav_order: 4
+---
+
 # 3. BigQuery 주요 기능
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -162,4 +168,4 @@ JOIN EXTERNAL_QUERY(
 
 ---
 
-[← 이전: 아키텍처](02-architecture.md) | [다음: 요금 체계 →](04-pricing.md)
+[← 이전: 아키텍처](02-architecture) | [다음: 요금 체계 →](04-pricing)

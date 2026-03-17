@@ -1,6 +1,12 @@
+---
+layout: default
+title: 4. 요금 체계
+nav_order: 5
+---
+
 # 4. BigQuery 요금 체계
 
-[← 목차로 돌아가기](index.md)
+[← 목차로 돌아가기](index)
 
 ---
 
@@ -143,4 +149,4 @@ WHERE DATE(order_date) = '2024-03-01';
 
 ---
 
-[← 이전: 주요 기능](03-features.md) | [다음: 사용 사례 →](05-use-cases.md)
+[← 이전: 주요 기능](03-features) | [다음: 사용 사례 →](05-use-cases)
