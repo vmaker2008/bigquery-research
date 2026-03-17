@@ -20,6 +20,7 @@
 | 9 | [성능 최적화](09-performance.md) | 파티션, 클러스터링, 쿼리 튜닝 |
 | 10 | [최신 기능 (2024-2025)](10-latest-features.md) | BigQuery Omni, AI 기능, 신기능 |
 | 11 | [자주 쓰는 함수](11-functions.md) | 날짜, 문자열, 집계, 윈도우, JSON 함수 등 |
+| 12 | [Git CLI 사용법](12-git-cli.md) | ADD, COMMIT, PUSH, CHECKOUT, CHERRY-PICK 등 주요 명령어 |
 
 ---
 
