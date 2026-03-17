@@ -24,6 +24,7 @@ nav_order: 1
 | 8 | [보안 & 접근 제어](08-security) | IAM, 행/열 수준 보안, 암호화 |
 | 9 | [성능 최적화](09-performance) | 파티션, 클러스터링, 쿼리 튜닝 |
 | 10 | [최신 기능 (2024-2025)](10-latest-features) | BigQuery Omni, AI 기능, 신기능 |
+| 11 | [자주 쓰는 함수](11-functions) | 날짜, 문자열, 집계, 윈도우, JSON 함수 등 |
 
 ---
 
